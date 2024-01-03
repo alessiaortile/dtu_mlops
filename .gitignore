@@ -12,6 +12,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
+data/
 develop-eggs/
 dist/
 downloads/
@@ -156,3 +157,4 @@ node_modules/
 latest_info.csv
 latest_repo_data.csv
 repo_data.csv
+/data
